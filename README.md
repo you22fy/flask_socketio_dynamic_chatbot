@@ -1,0 +1,3 @@
+# 動的なchatbot UI
+flask_socketioを用いて動的に応答を表示するflaskアプリのUIです。
+chatbot部分にはランダムな文章を返す関数を利用していますが他のものに変更しても良いです。
